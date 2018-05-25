@@ -1,0 +1,281 @@
+Category,Institute Name (Course Name),Program Name,Course ID,Opening Rank,Closing Rank
+General,IISc Bangalore (Integrated PhD),Biological Sciences,1101,1,5
+General,IISc Bangalore (Integrated PhD),Biotechnology,1101,7,12
+General,IIT Bombay (M.Sc.),Applied Geology,1201,1,31
+General,IIT Bombay (M.Sc.),Applied Geophysics,1202,60,170
+General,IIT Bombay (M.Sc.),Applied Statistics & Informatics,1203,9,50
+General,IIT Bombay (M.Sc.),Biotechnology,1204,2,28
+General,IIT Bombay (M.Sc.),Chemistry,1205,3,52
+General,IIT Bombay (M.Sc.),Mathematics,1206,5,37
+General,IIT Bombay (M.Sc.),Physics,1207,1,50
+General,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Biotechnology,1213,35,
+General,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Chemistry,1213,350,
+General,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Mathematics,1213,310,
+General,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Physics,1213,351,
+General,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematics,1214,61,
+General,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematical Statistics,1214,49,
+General,IIT Bombay (M.Sc. – MTech),M.Sc. (Physics) ? MTech (Materials Sciences with specialization in Nano Science & Technology),1216,63,197
+General,IIT Delhi (M.Sc.),Chemistry,1301,21,136
+General,IIT Delhi (M.Sc.),Mathematics,1302,4,87
+General,IIT Delhi (M.Sc.),Physics,1303,16,185
+General,IIT Guwahati (M.Sc.),Chemistry,1401,130,210
+General,IIT Guwahati (M.Sc.),Mathematics & Computing,1402,101,220
+General,IIT Guwahati (M.Sc.),Physics,1403,115,245
+General,IIT Kanpur (M.Sc.),Chemistry,1501,5,45
+General,IIT Kanpur (M.Sc.),Mathematics,1502,36,105
+General,IIT Kanpur (M.Sc.),Physics,1503,3,72
+General,IIT Kanpur (M.Sc.),Statistics,1504,1,65
+General,IIT Kanpur (M.Sc. – PhD Dual Degree),Physics,1505,30,189
+General,IIT Kharagpur (Joint M.Sc. – PhD),Chemistry,1601,5,118
+General,IIT Kharagpur (Joint M.Sc. – PhD),Geology,1602,8,47
+General,IIT Kharagpur (Joint M.Sc. – PhD),Mathematics,1603,19,173
+General,IIT Kharagpur (Joint M.Sc. – PhD),Physics,1604,17,149
+General,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (GG),1605,42,90
+General,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (PH),1605,143,251
+General,IT Madras (M.Sc.),Chemistry,1701,85,244
+General,IT Madras (M.Sc.),Mathematics,1702,43,150
+General,IT Madras (M.Sc.),Physics,1703,75,198
+General,IIT Roorkee (M.Sc.),Applied Geology,1801,30,42
+General,IIT Roorkee (M.Sc.),Biotechnology,1802,20,56
+General,IIT Roorkee (M.Sc.),Chemistry,1803,93,146
+General,IIT Roorkee (M.Sc.),Mathematics,1804,100,189
+General,IIT Roorkee (M.Sc.),Physics,1805,175,230
+General,IIT Roorkee (M.Sc.),Economics (MA),1806,,
+General,IIT Roorkee (M.Sc.),Economics (MS),1806,,
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Chemistry,1901,160,260
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Mathematics,1902,181,324
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Physics,1903,284,384
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Geology,1904,400,500
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (CY),1905,223,225
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (GG),1905,79,95
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MA),1905,289,301
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MS),1905,52,54
+General,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (PH),1905,316,340
+General,IIT Gandhinagar (M.Sc.),Chemistry,2001,167,238
+General,IIT Gandhinagar (M.Sc.),Mathematics,2002,75,250
+General,IIT Gandhinagar (M.Sc.),Physics,2003,107,267
+General,IIT Hyderabad (M.Sc.),Chemistry,2101,201,231
+General,IIT Hyderabad (M.Sc.),Mathematics / Mathematics & Computing,2102,250,271
+General,IIT Hyderabad (M.Sc.),Physics,2103,300,420
+General,IIT Indore (M.Sc.),Chemistry,2201,241,301
+General,IIT Indore (M.Sc.),Physics,2202,256,315
+General,IIT Indore (M.Sc.),Mathematics,2203,232,270
+General,IIT Ropar (M.Sc.),Mathematics,2301,132,264
+General,IIT Ropar (M.Sc.),Chemistry,2302,215,279
+General,IIT Ropar (M.Sc.),Physics,2303,290,325
+General,IIT Patna (M.Sc.),Chemistry,2501,293,356
+General,IIT Patna (M.Sc.),Mathematics,2502,303,326
+General,IIT Patna (M.Sc.),Physics,2503,210,267
+General,IIT Jodhpur (M.Sc.),Chemistry,2401,,
+General,IIT Jodhpur (M.Sc.),Mathematics,2402,,
+General,IIT Jodhpur (M.Sc.),Physics,2403,,
+OBC,IISc Bangalore (Integrated PhD),Biological Sciences,1101,22,35
+OBC,IISc Bangalore (Integrated PhD),Biotechnology,1101,83,115
+OBC,IIT Bombay (M.Sc.),Applied Geology,1201,20,54
+OBC,IIT Bombay (M.Sc.),Applied Geophysics,1202,143,300
+OBC,IIT Bombay (M.Sc.),Applied Statistics & Informatics,1203,175,320
+OBC,IIT Bombay (M.Sc.),Biotechnology,1204,60,210
+OBC,IIT Bombay (M.Sc.),Chemistry,1205,67,150
+OBC,IIT Bombay (M.Sc.),Mathematics,1206,46,151
+OBC,IIT Bombay (M.Sc.),Physics,1207,123,313
+OBC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Biotechnology,1213,79,79
+OBC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Chemistry,1213,511,523
+OBC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Mathematics,1213,,
+OBC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Physics,1213,600,650
+OBC,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematics,1214,133,200
+OBC,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematical Statistics,1214,258,281
+OBC,IIT Bombay (M.Sc. – MTech),M.Sc. (Physics) ? MTech (Materials Sciences with specialization in Nano Science & Technology),1216,308,450
+OBC,IIT Delhi (M.Sc.),Chemistry,1301,128,389
+OBC,IIT Delhi (M.Sc.),Mathematics,1302,108,250
+OBC,IIT Delhi (M.Sc.),Physics,1303,210,385
+OBC,IIT Guwahati (M.Sc.),Chemistry,1401,310,534
+OBC,IIT Guwahati (M.Sc.),Mathematics & Computing,1402,328,401
+OBC,IIT Guwahati (M.Sc.),Physics,1403,481,600
+OBC,IIT Kanpur (M.Sc.),Chemistry,1501,96,301
+OBC,IIT Kanpur (M.Sc.),Mathematics,1502,123,208
+OBC,IIT Kanpur (M.Sc.),Physics,1503,67,135
+OBC,IIT Kanpur (M.Sc.),Statistics,1504,65,269
+OBC,IIT Kanpur (M.Sc. – PhD Dual Degree),Physics,1505,225,250
+OBC,IIT Kharagpur (Joint M.Sc. – PhD),Chemistry,1601,153,445
+OBC,IIT Kharagpur (Joint M.Sc. – PhD),Geology,1602,43,88
+OBC,IIT Kharagpur (Joint M.Sc. – PhD),Mathematics,1603,285,350
+OBC,IIT Kharagpur (Joint M.Sc. – PhD),Physics,1604,233,498
+OBC,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (GG),1605,129,195
+OBC,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (PH),1605,631,634
+OBC,IT Madras (M.Sc.),Chemistry,1701,305,513
+OBC,IT Madras (M.Sc.),Mathematics,1702,231,361
+OBC,IT Madras (M.Sc.),Physics,1703,347,629
+OBC,IIT Roorkee (M.Sc.),Applied Geology,1801,83,103
+OBC,IIT Roorkee (M.Sc.),Biotechnology,1802,111,330
+OBC,IIT Roorkee (M.Sc.),Chemistry,1803,298,412
+OBC,IIT Roorkee (M.Sc.),Mathematics,1804,264,314
+OBC,IIT Roorkee (M.Sc.),Physics,1805,414,543
+OBC,IIT Roorkee (M.Sc.),Economics (MA),1806,523,605
+OBC,IIT Roorkee (M.Sc.),Economics (MS),1806,311,340
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Chemistry,1901,579,638
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Mathematics,1902,361,523
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Physics,1903,620,800
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Geology,1904,95,179
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (CY),1905,794,794
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (GG),1905,244,244
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MA),1905,622,622
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MS),1905,364,364
+OBC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (PH),1905,910,910
+OBC,IIT Gandhinagar (M.Sc.),Chemistry,2001,389,543
+OBC,IIT Gandhinagar (M.Sc.),Mathematics,2002,360,435
+OBC,IIT Gandhinagar (M.Sc.),Physics,2003,589,850
+OBC,IIT Hyderabad (M.Sc.),Chemistry,2101,531,597
+OBC,IIT Hyderabad (M.Sc.),Mathematics / Mathematics & Computing,2102,402,465
+OBC,IIT Hyderabad (M.Sc.),Physics,2103,783,967
+OBC,IIT Indore (M.Sc.),Chemistry,2201,523,610
+OBC,IIT Indore (M.Sc.),Physics,2202,256,315
+OBC,IIT Indore (M.Sc.),Mathematics,2203,232,370
+OBC,IIT Ropar (M.Sc.),Mathematics,2301,220,264
+OBC,IIT Ropar (M.Sc.),Chemistry,2302,215,279
+OBC,IIT Ropar (M.Sc.),Physics,2303,290,325
+OBC,IIT Patna (M.Sc.),Chemistry,2501,500,615
+OBC,IIT Patna (M.Sc.),Mathematics,2502,420,530
+OBC,IIT Patna (M.Sc.),Physics,2503,680,820
+OBC,IIT Jodhpur (M.Sc.),Chemistry,2401,,
+OBC,IIT Jodhpur (M.Sc.),Mathematics,2402,,
+OBC,IIT Jodhpur (M.Sc.),Physics,2403,,
+SC,IISc Bangalore (Integrated PhD),Biological Sciences,1101,55,67
+SC,IISc Bangalore (Integrated PhD),Biotechnology,1101,69,110
+SC,IIT Bombay (M.Sc.),Applied Geology,1201,69,190
+SC,IIT Bombay (M.Sc.),Applied Geophysics,1202,980,1110
+SC,IIT Bombay (M.Sc.),Applied Statistics & Informatics,1203,155,357
+SC,IIT Bombay (M.Sc.),Biotechnology,1204,174,630
+SC,IIT Bombay (M.Sc.),Chemistry,1205,60,700
+SC,IIT Bombay (M.Sc.),Mathematics,1206,110,351
+SC,IIT Bombay (M.Sc.),Physics,1207,398,948
+SC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Biotechnology,1213,,
+SC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Chemistry,1213,,
+SC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Mathematics,1213,1600,1630
+SC,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Physics,1213,,
+SC,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematics,1214,670,680
+SC,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematical Statistics,1214,340,360
+SC,IIT Bombay (M.Sc. – MTech),M.Sc. (Physics) ? MTech (Materials Sciences with specialization in Nano Science & Technology),1216,1490,1520
+SC,IIT Delhi (M.Sc.),Chemistry,1301,289,510
+SC,IIT Delhi (M.Sc.),Mathematics,1302,185,756
+SC,IIT Delhi (M.Sc.),Physics,1303,500,1700
+SC,IIT Guwahati (M.Sc.),Chemistry,1401,670,1234
+SC,IIT Guwahati (M.Sc.),Mathematics & Computing,1402,903,1201
+SC,IIT Guwahati (M.Sc.),Physics,1403,1481,3391
+SC,IIT Kanpur (M.Sc.),Chemistry,1501,230,421
+SC,IIT Kanpur (M.Sc.),Mathematics,1502,200,837
+SC,IIT Kanpur (M.Sc.),Physics,1503,151,1300
+SC,IIT Kanpur (M.Sc.),Statistics,1504,55,498
+SC,IIT Kanpur (M.Sc. – PhD Dual Degree),Physics,1505,1000,2500
+SC,IIT Kharagpur (Joint M.Sc. – PhD),Chemistry,1601,217,647
+SC,IIT Kharagpur (Joint M.Sc. – PhD),Geology,1602,68,256
+SC,IIT Kharagpur (Joint M.Sc. – PhD),Mathematics,1603,526,776
+SC,IIT Kharagpur (Joint M.Sc. – PhD),Physics,1604,670,980
+SC,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (GG),1605,388,407
+SC,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (PH),1605,,
+SC,IT Madras (M.Sc.),Chemistry,1701,1100,1300
+SC,IT Madras (M.Sc.),Mathematics,1702,900,1500
+SC,IT Madras (M.Sc.),Physics,1703,1100,1913
+SC,IIT Roorkee (M.Sc.),Applied Geology,1801,301,335
+SC,IIT Roorkee (M.Sc.),Biotechnology,1802,113,530
+SC,IIT Roorkee (M.Sc.),Chemistry,1803,740,908
+SC,IIT Roorkee (M.Sc.),Mathematics,1804,702,914
+SC,IIT Roorkee (M.Sc.),Physics,1805,1890,2043
+SC,IIT Roorkee (M.Sc.),Economics (MA),1806,1473,1605
+SC,IIT Roorkee (M.Sc.),Economics (MS),1806,523,540
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Chemistry,1901,1280,1538
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Mathematics,1902,1100,2223
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Physics,1903,1930,2300
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Geology,1904,230,379
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (CY),1905,2059,2100
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (GG),1905,,
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MA),1905,,
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MS),1905,494,
+SC,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (PH),1905,2460,2510
+SC,IIT Gandhinagar (M.Sc.),Chemistry,2001,1384,1543
+SC,IIT Gandhinagar (M.Sc.),Mathematics,2002,1459,1645
+SC,IIT Gandhinagar (M.Sc.),Physics,2003,1378,1750
+SC,IIT Hyderabad (M.Sc.),Chemistry,2101,12900,1569
+SC,IIT Hyderabad (M.Sc.),Mathematics / Mathematics & Computing,2102,1440,1465
+SC,IIT Hyderabad (M.Sc.),Physics,2103,2378,2957
+SC,IIT Indore (M.Sc.),Chemistry,2201,1623,1760
+SC,IIT Indore (M.Sc.),Physics,2202,2356,2831
+SC,IIT Indore (M.Sc.),Mathematics,2203,1232,1370
+SC,IIT Ropar (M.Sc.),Mathematics,2301,1720,1726
+SC,IIT Ropar (M.Sc.),Chemistry,2302,1415,1529
+SC,IIT Ropar (M.Sc.),Physics,2303,290,325
+SC,IIT Patna (M.Sc.),Chemistry,2501,2250,2261
+SC,IIT Patna (M.Sc.),Mathematics,2502,2140,2330
+SC,IIT Patna (M.Sc.),Physics,2503,1680,1820
+SC,IIT Jodhpur (M.Sc.),Chemistry,2401,,
+SC,IIT Jodhpur (M.Sc.),Mathematics,2402,,
+SC,IIT Jodhpur (M.Sc.),Physics,2403,,
+ST,IISc Bangalore (Integrated PhD),Biological Sciences,1101,650,767
+ST,IISc Bangalore (Integrated PhD),Biotechnology,1101,,
+ST,IIT Bombay (M.Sc.),Applied Geology,1201,270,490
+ST,IIT Bombay (M.Sc.),Applied Geophysics,1202,3550,3610
+ST,IIT Bombay (M.Sc.),Applied Statistics & Informatics,1203,389,957
+ST,IIT Bombay (M.Sc.),Biotechnology,1204,1019,1130
+ST,IIT Bombay (M.Sc.),Chemistry,1205,560,2700
+ST,IIT Bombay (M.Sc.),Mathematics,1206,325,951
+ST,IIT Bombay (M.Sc.),Physics,1207,1398,2348
+ST,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Biotechnology,1213,,
+ST,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Chemistry,1213,5290,
+ST,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Mathematics,1213,,
+ST,IIT Bombay (M.Sc. – PhD Dual Degree),Environmental Science andEngineering – Physics,1213,,
+ST,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematics,1214,,
+ST,IIT Bombay (M.Sc. – PhD Dual Degree),Operational Research – Mathematical Statistics,1214,373,373
+ST,IIT Bombay (M.Sc. – MTech),M.Sc. (Physics) ? MTech (Materials Sciences with specialization in Nano Science & Technology),1216,3000,
+ST,IIT Delhi (M.Sc.),Chemistry,1301,2890,4550
+ST,IIT Delhi (M.Sc.),Mathematics,1302,1185,1765
+ST,IIT Delhi (M.Sc.),Physics,1303,1150,3700
+ST,IIT Guwahati (M.Sc.),Chemistry,1401,670,1234
+ST,IIT Guwahati (M.Sc.),Mathematics & Computing,1402,1973,2401
+ST,IIT Guwahati (M.Sc.),Physics,1403,1481,3391
+ST,IIT Kanpur (M.Sc.),Chemistry,1501,330,2541
+ST,IIT Kanpur (M.Sc.),Mathematics,1502,2180,2379
+ST,IIT Kanpur (M.Sc.),Physics,1503,151,1300
+ST,IIT Kanpur (M.Sc.),Statistics,1504,2349,3498
+ST,IIT Kanpur (M.Sc. – PhD Dual Degree),Physics,1505,,
+ST,IIT Kharagpur (Joint M.Sc. – PhD),Chemistry,1601,2317,3174
+ST,IIT Kharagpur (Joint M.Sc. – PhD),Geology,1602,296,386
+ST,IIT Kharagpur (Joint M.Sc. – PhD),Mathematics,1603,826,1776
+ST,IIT Kharagpur (Joint M.Sc. – PhD),Physics,1604,1130,3227
+ST,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (GG),1605,400,607
+ST,IIT Kharagpur (Joint M.Sc. – PhD),Geophysics (PH),1605,,
+ST,IT Madras (M.Sc.),Chemistry,1701,4200,4400
+ST,IT Madras (M.Sc.),Mathematics,1702,2340,2953
+ST,IT Madras (M.Sc.),Physics,1703,3279,4136
+ST,IIT Roorkee (M.Sc.),Applied Geology,1801,301,301
+ST,IIT Roorkee (M.Sc.),Biotechnology,1802,178,590
+ST,IIT Roorkee (M.Sc.),Chemistry,1803,2595,3608
+ST,IIT Roorkee (M.Sc.),Mathematics,1804,2358,3900
+ST,IIT Roorkee (M.Sc.),Physics,1805,2270,4073
+ST,IIT Roorkee (M.Sc.),Economics (MA),1806,,
+ST,IIT Roorkee (M.Sc.),Economics (MS),1806,,
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Chemistry,1901,3790,4670
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Mathematics,1902,3109,4239
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Physics,1903,1930,2300
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Geology,1904,230,379
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (CY),1905,6259,6926
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (GG),1905,,
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MA),1905,,
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (MS),1905,,
+ST,IIT Bhubaneswar (Joint M.Sc. – PhD),Atmosphere andOcean Sciences (PH),1905,4370,4789
+ST,IIT Gandhinagar (M.Sc.),Chemistry,2001,4631,5243
+ST,IIT Gandhinagar (M.Sc.),Mathematics,2002,2498,3128
+ST,IIT Gandhinagar (M.Sc.),Physics,2003,4297,5896
+ST,IIT Hyderabad (M.Sc.),Chemistry,2101,4083,5764
+ST,IIT Hyderabad (M.Sc.),Mathematics / Mathematics & Computing,2102,,
+ST,IIT Hyderabad (M.Sc.),Physics,2103,2378,2957
+ST,IIT Indore (M.Sc.),Chemistry,2201,5000,5200
+ST,IIT Indore (M.Sc.),Physics,2202,4850,4870
+ST,IIT Indore (M.Sc.),Mathematics,2203,,
+ST,IIT Ropar (M.Sc.),Mathematics,2301,,
+ST,IIT Ropar (M.Sc.),Chemistry,2302,,
+ST,IIT Ropar (M.Sc.),Physics,2303,,
+ST,IIT Patna (M.Sc.),Chemistry,2501,,
+ST,IIT Patna (M.Sc.),Mathematics,2502,,
+ST,IIT Patna (M.Sc.),Physics,2503,,
+ST,IIT Jodhpur (M.Sc.),Chemistry,2401,,
+ST,IIT Jodhpur (M.Sc.),Mathematics,2402,,
+ST,IIT Jodhpur (M.Sc.),Physics,2403,,
